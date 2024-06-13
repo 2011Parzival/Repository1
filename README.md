@@ -14,4 +14,4 @@ This is how i collected my data
 
 # Image Subsection
 
-![Screenshot 2024-06-13 112951](assets/img/Screenshot 2024-06-13 112951.png)
+![Screenshot_Example](assets/Screenshot_Example.png)
