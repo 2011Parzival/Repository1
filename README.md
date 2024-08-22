@@ -7,7 +7,11 @@ When I first started in Analytical roles the Data I would work with was supplied
 
 Our need for data becamce more and the routinely updated tables from the central data team weren't going to be enough for all we wanted to see. At this point SAS started to be used to create our own tables and transform current tables to allow us to better analyse the data our organisation held.
 
-After 4 years of this work I moved to Fraud, I was the first analyst in the application Fraud team and, as such, had to create all new reports from scratch. 
+After 4 years of this work I moved to Fraud, I was the first analyst in the application Fraud team and, as such, had to create all new reports from scratch. I greatly increased my SAS knowledge whilst working in this role and used both Data steps and Proc SQL coding to export and analyse data. Once I tried to export too much information from a live feed and froze a critical system for all users in the company. The central data team now export all files each night and analysts can access them the day after, this prevents the system from being frozen – I was not the only one to make this mistake.
+
+A third party provider supplied a fraud database which was shared across the industry. I used the skills I had gained using proc SQL in SAS to access an SQL based query tool to interrogate this database and create improved reports for fraud.
+
+One of my final acts in fraud was to use Excel Macros to create a tool for the fraud investigators where they could select from a range of options or select their own factors to create an output detailing risks which match the criteria selected. This helped to identify fraudulent policies based on current trends seen. This used User Forms and Macros from the VBA tools to make a user interface.
 
 ## Data collection
 
