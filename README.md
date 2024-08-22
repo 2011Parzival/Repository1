@@ -21,7 +21,9 @@ At this time Machine Learning was beginning to be investigated. My first experie
 
 ## Decision Tree
 
-This is how i collected my data
+Below are links to the process guide, excel spreadsheet and R code required to create the decision tree.
+
+<img class="rounded-circle" alt="Decision Tree Process Guide" src="/assests/Decision Tree Process.docx" />
 
 ## Data analysis
 
@@ -29,4 +31,4 @@ This is how i collected my data
 
 # Image Subsection
 
-<img class="rounded-circle" alt="example" src="/assets/Screenshot_Example.png" />
+<img class="rounded-circle" alt="example" src="/assests/Screenshot_Example.png" />
