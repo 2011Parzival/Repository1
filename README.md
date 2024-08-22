@@ -33,10 +33,13 @@ Below are links to the process guide, excel spreadsheet and R code required to c
 
 ## Data Science Project Dashboard
 
+For my latest assessment in my Data Science Apprenticeship I have had free choice of what to produce using a publicly available dataset. For this I used the Kaggle website and found some information on Roblox. Roblox is a gaming platform with lots of different games to be played using and a character Avatar that can be used to play the games and customized. Users can even create their own games using a software extension package, containing several templates for easy building.
+
+My eldest son is a keen player of Roblox and I wanted to take the chance to include him in some of the work I’m doing.
+
+Below is a link to the project I created.
 
 
-### Headings 3
+# Future Improvements
 
-# Image Subsection
-
-<img class="rounded-circle" alt="example" src="/assests/Screenshot_Example.png" />
+I wanted to include pictures in this profile, particularly in place of some of the links to make this site more appealing, however I’ve struggled to make these work, linking to images in the Assets Folder. Any replies or messages to this site helping me achieve this would be greatly appreciated.
