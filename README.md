@@ -13,7 +13,13 @@ A third party provider supplied a fraud database which was shared across the ind
 
 One of my final acts in fraud was to use Excel Macros to create a tool for the fraud investigators where they could select from a range of options or select their own factors to create an output detailing risks which match the criteria selected. This helped to identify fraudulent policies based on current trends seen. This used User Forms and Macros from the VBA tools to make a user interface.
 
-## Data collection
+I began to look at some early Machine Learning modules as options to detect Fraud, but it wouldn’t be until I returned to pricing that I started to use some of these.
+
+I returned to a pricing role after this and saw how the use of SAS had increased since I’d left. I started to use SAS coding to create development triangles. These display how a scheme performance changes over time with each underwriting year displayed by a separate line.
+
+At this time Machine Learning was beginning to be investigated. My first experience of it was to create a Decision Tree using some pre-written R code and an Excel Macro enabled spreadsheet. Machine Learning models are still rarely used in the pricing teams, except for the newly formed Technical Pricing Team. I am trying to help spread the use of these, I ran a training session to talk another team through the process of running a Decision Tree and have now written a process guide on how this is done.
+
+## Decision Tree
 
 This is how i collected my data
 
