@@ -14,7 +14,7 @@ This is how i collected my data
 
 # Image Subsection
 
-<img class="rounded-circle" alt="example" src = ![Screenshot_Example](assets/Screenshot_Example.png) />
+<img class="rounded-circle" alt="example" src = "/assets/Screenshot_Example.png" />
 
 <img class="rounded-circle" alt="avatar1" src="https://mdbcdn.b-cdn.net/img/new/avatars/9.webp" />
 
