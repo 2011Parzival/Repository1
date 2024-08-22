@@ -24,8 +24,16 @@ At this time Machine Learning was beginning to be investigated. My first experie
 Below are links to the process guide, excel spreadsheet and R code required to create the decision tree.
 
 <img class="rounded-circle" alt="Decision Tree Process Guide" src="/assests/Decision Tree Process.docx" />
+<img class="rounded-circle" alt="Decision Tree Template" src="/assests/Decision Tree - Template.xlsm" />
+<img class="rounded-circle" alt="R Code Part 1" src="/assests/1.Import Data.R" />
+<img class="rounded-circle" alt="R Code Part 2" src="/assests/2.Data Constraints.R" />
+<img class="rounded-circle" alt="R Code Part 3" src="/assests/3.Data Prep.R" />
+<img class="rounded-circle" alt="R Code Part 4" src="/assests/4.Train Set.R" />
+<img class="rounded-circle" alt="R Code Part 5" src="/assests/5.Decision Tree.R" />
 
-## Data analysis
+## Data Science Project Dashboard
+
+
 
 ### Headings 3
 
