@@ -39,6 +39,8 @@ My eldest son is a keen player of Roblox and I wanted to take the chance to incl
 
 Below is a link to the project I created.
 
+<img class="rounded-circle" alt="Data Science Project" src="/assests/Data Science Project Summative.docx" />
+
 
 # Future Improvements
 
